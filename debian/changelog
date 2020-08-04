@@ -1,0 +1,25 @@
+kaisen-grub-configuration (1.2) kaisen-testing; urgency=medium
+
+  * Remove /usr/share/kaisen-grub-configuration
+  * Remove grub.d files
+  * Adding install grub-16x9.png at /boot/grub
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>  Tue, 05 Aug 2020 00:31:33 +0200
+
+kaisen-grub-configuration (1.1) kaisen-devel; urgency=medium
+
+  * Import new 05_debian_theme at grub-2.04-8 package
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>  Wed, 15 Jul 2020 22:44:09 +0200
+
+kaisen-grub-configuration (1.0+kaisen2) kaisen-devel; urgency=medium
+
+  * Change GRUB background. Background created by Tobas.
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>  Sat, 06 Jun 2020 00:17:43 +0200
+
+kaisen-grub-configuration (1.0+kaisen1) kaisen-devel; urgency=medium
+
+  * GRUB configuration (adding GRUB image when are disks encrypted and remove memtest86+)
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>  Fri, 01 May 2020 19:00:12 +0200

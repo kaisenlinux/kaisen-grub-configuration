@@ -1,0 +1,12 @@
+Source: kaisen-grub-configuration
+Section: kaisen-packages
+Priority: optional
+Maintainer: Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>
+Uploaders: Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>
+Build-Depends: debhelper
+Standards-Version: 4.4.0
+
+Package: kaisen-grub-configuration
+Architecture: all
+Depends: grub-pc-bin | grub-efi-amd64
+Description: GRUB configuration for Kaisen Linux
