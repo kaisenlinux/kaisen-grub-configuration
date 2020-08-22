@@ -2,12 +2,4 @@
 
 set -e
 
-cat << EOF > /etc/default/grub
-GRUB_DEFAULT=0
-GRUB_TIMEOUT=5
-GRUB_DISTRIBUTOR=Kaisen
-GRUB_CMDLINE_LINUX_DEFAULT="quiet splash"
-GRUB_CMDLINE_LINUX=""
-EOF
-
 update-grub 2>&1 > /dev/null || true
