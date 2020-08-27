@@ -2,4 +2,5 @@
 
 set -e
 
+rm -f /etc/grub.d/20_memtest86+ || true
 update-grub 2>&1 > /dev/null || true
