@@ -1,10 +1,10 @@
 Source: kaisen-grub-configuration
 Section: kaisen-packages
 Priority: optional
-Maintainer: Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>
-Uploaders: Kevin Chevreuil - Kaisen <kaisen@kaisen-linux.org>
+Maintainer: Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>
 Build-Depends: debhelper
-Standards-Version: 4.4.0
+Standards-Version: 4.5.1
+Homepage: https://kaisenlinux.org
 
 Package: kaisen-grub-configuration
 Architecture: all
