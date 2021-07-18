@@ -1,9 +1,17 @@
+kaisen-grub-configuration (1.7) kaisen-packages; urgency=medium
+
+  * Update to 1.7
+  * Update compat
+  * Remove postinst
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Sun, 18 Jul 2021 15:58:46 +0200
+
 kaisen-grub-configuration (1.6) kaisen-packages; urgency=medium
 
   * Update control file
   * Update to 1.6
 
- -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Tue, 30 Mar 2020 10:22:53 +0200
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Tue, 30 Mar 2021 10:22:53 +0200
 
 kaisen-grub-configuration (1.3+kaisen1) kaisen-packages; urgency=medium
 
