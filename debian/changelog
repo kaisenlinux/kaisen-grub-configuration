@@ -1,3 +1,9 @@
+kaisen-grub-configuration (2.1) kaisen-packages; urgency=medium
+
+  * Update to 2.1
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Thu, 09 Dec 2022 02:02:11 +0100
+
 kaisen-grub-configuration (2.0) kaisen-packages; urgency=medium
 
   * Update to 2.0
