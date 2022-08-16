@@ -1,3 +1,9 @@
+kaisen-grub-configuration (2.1+kaisen1) kaisen-packages; urgency=medium
+
+  * Add GRUB_DISABLE_OS_PROBER=false for GRUB 2.06
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Tue, 16 Aug 2022 03:32:28 +0100
+
 kaisen-grub-configuration (2.1) kaisen-packages; urgency=medium
 
   * Update to 2.1

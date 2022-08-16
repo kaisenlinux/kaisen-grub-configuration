@@ -3,10 +3,12 @@ Section: kaisen-packages
 Priority: optional
 Maintainer: Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>
 Build-Depends: debhelper
-Standards-Version: 4.5.1
+Standards-Version: 4.6.0.1
 Homepage: https://kaisenlinux.org
+Vcs-Browser: https://gitlab.com/kaisenlinux/packages/kaisen-grub-configuration
+Vcs-Git: https://gitlab.com/kaisenlinux/packages/kaisen-grub-configuration.git
 
 Package: kaisen-grub-configuration
 Architecture: all
-Depends: grub-pc-bin | grub-efi-amd64
+Depends: grub-pc-bin | grub-efi-amd64-bin
 Description: GRUB configuration for Kaisen Linux
