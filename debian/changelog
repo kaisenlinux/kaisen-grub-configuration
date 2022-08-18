@@ -1,3 +1,9 @@
+kaisen-grub-configuration (2.1+kaisen2) kaisen-packages; urgency=medium
+
+  * Add a postinst script to run the update-grub command if her exist
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Fri, 19 Aug 2022 00:55:02 +0100
+
 kaisen-grub-configuration (2.1+kaisen1) kaisen-packages; urgency=medium
 
   * Add GRUB_DISABLE_OS_PROBER=false for GRUB 2.06
