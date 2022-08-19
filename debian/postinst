@@ -3,7 +3,7 @@
 set -e
 
 case "$1" in
-	update|full-upgrade|dist-upgrade)
+	upgrade|full-upgrade|dist-upgrade)
 		if command -v update-grub &> /dev/null
 		then
 			update-grub
