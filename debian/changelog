@@ -1,3 +1,9 @@
+kaisen-grub-configuration (2.1+kaisen3) kaisen-packages; urgency=medium
+
+  * Add an if statement to update the GRUB
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Sat, 20 Aug 2022 01:11:07 +0100
+
 kaisen-grub-configuration (2.1+kaisen2) kaisen-packages; urgency=medium
 
   * Add a postinst script to run the update-grub command if her exist

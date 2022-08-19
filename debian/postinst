@@ -2,7 +2,11 @@
 
 set -e
 
-if command -v update-grub &> /dev/null
-then
-	update-grub
-fi
+case "$1" in
+	update|full-upgrade|dist-upgrade)
+		if command -v update-grub &> /dev/null
+		then
+			update-grub
+		fi
+	;;
+esac
