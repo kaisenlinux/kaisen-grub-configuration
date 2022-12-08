@@ -1,3 +1,12 @@
+kaisen-grub-configuration (2.2) kaisen-packages; urgency=medium
+
+  * Add the GRUB_BACKGROUND config
+  * Readd the GRUB_DISABLE_OS_PROBER config
+  * Rename the grub-16x9.png picture in kaisen-grub.cfg
+  * Bump the version to 2.2
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Thu, 08 Dec 2022 18:22:41 +0100
+
 kaisen-grub-configuration (2.1+kaisen5) kaisen-packages; urgency=medium
 
   * Remove the GRUB_DISABLE_OS_PROBER conf (import from grub directly)
