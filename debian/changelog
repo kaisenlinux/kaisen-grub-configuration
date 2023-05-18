@@ -1,3 +1,9 @@
+kaisen-grub-configuration (2.3) kaisen-packages; urgency=medium
+
+  * Bump the version to 2.3
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Thu, 18 May 2023 17:28:02 +0100
+
 kaisen-grub-configuration (2.2) kaisen-packages; urgency=medium
 
   * Add the GRUB_BACKGROUND config
