@@ -1,3 +1,9 @@
+kaisen-grub-configuration (2.3+kaisen1) kaisen-packages; urgency=medium
+
+  * Add the new kaisen-grub.png file
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Wed, 13 Dec 2023 02:21:17 +0100
+
 kaisen-grub-configuration (2.3) kaisen-packages; urgency=medium
 
   * Bump the version to 2.3
