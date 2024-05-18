@@ -1,3 +1,10 @@
+kaisen-grub-configuration (2.3+kaisen2) kaisen-packages; urgency=medium
+
+  * Add the new Kaisen 3.0 wallpaper kaisen-grub.png file
+  * Remove the debian/compat file
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Sat, 18 May 2024 03:04:35 +0200
+
 kaisen-grub-configuration (2.3+kaisen1) kaisen-packages; urgency=medium
 
   * Add the new kaisen-grub.png file

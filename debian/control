@@ -2,8 +2,8 @@ Source: kaisen-grub-configuration
 Section: kaisen-packages
 Priority: optional
 Maintainer: Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>
-Build-Depends: debhelper
-Standards-Version: 4.6.0.1
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.7.0
 Homepage: https://kaisenlinux.org
 Vcs-Browser: https://gitlab.com/kaisenlinux/packages/kaisen-grub-configuration
 Vcs-Git: https://gitlab.com/kaisenlinux/packages/kaisen-grub-configuration.git
